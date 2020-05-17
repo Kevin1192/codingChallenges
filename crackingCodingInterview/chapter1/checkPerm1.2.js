@@ -1,6 +1,10 @@
 // 1.2 Given two strings,write a method to decide if one is a permutation of the other.
 
 // Attempt
+// Counting each char in both strs and see if the counts match
+
+// O(N) time complexity
+
 // ex. ('abc', 'bca') => true  ('aa', 'ab') => false ('abce', 'bcad') => false
 const checkPermute = (str1, str2) => {
   if (str1.length !== str2.length) return false;

@@ -2,6 +2,9 @@
 
 
 // Attempt
+// Use hash table to store char. If there is key in hash table, return false, else true
+
+// O(N) time complexity
 function allUniqueChar(str){
     const obj = {};
 
