@@ -45,7 +45,7 @@ function removeDupsNoBuffer(list){
 
 
 // Test //
-const SinglyLinkedList = require('../util/LinkedList')
+const SinglyLinkedList = require('./util/LinkedList')
 
 let list = new SinglyLinkedList();
 
