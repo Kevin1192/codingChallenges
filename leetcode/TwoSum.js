@@ -18,6 +18,11 @@ return [0, 1].
  * @return {number[]}
  */
 
-var twoSum = function(nums, target) {
-    
+var twoSum = function (nums, target) {
+  let obj = {};
+
+  // for each num and idxnum in nums
+  //      find complement = target - num;
+  //      if complement is a key in obj => return (obj[complement], idx);
+  //      store obj[num] = index of num;
 };
