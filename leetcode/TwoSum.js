@@ -25,4 +25,11 @@ var twoSum = function (nums, target) {
   //      find complement = target - num;
   //      if complement is a key in obj => return (obj[complement], idx);
   //      store obj[num] = index of num;
+  for (let i = 0; i < nums.length; i++){
+      let complement = target - nums[i];
+      if (obj[complement] !== undefined) return [obj[complement], i];
+      obj[nums[i]] = i;
+  };
+
+  return 'no pair sums to target';
 };
