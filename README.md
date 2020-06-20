@@ -5,6 +5,15 @@ This is the repository where I store the coding challenges I solved.
 
 Currently working on Cracking the Coding Interview challenges.
 
+### LeetCode challenges:
+
+* DefangingIPAddress
+* RotateImage
+* TwoSum
+* 3Sum
+
+
+
 ### CTCI:
 
 #### chapter 1 Array and String:
