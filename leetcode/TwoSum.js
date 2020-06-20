@@ -18,6 +18,7 @@ return [0, 1].
  * @return {number[]}
  */
 
+ // hashtable solution
 var twoSum = function (nums, target) {
   let obj = {};
 
