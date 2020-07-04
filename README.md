@@ -19,7 +19,7 @@ Currently working on Cracking the Coding Interview challenges.
 
 
 
-### CTCI:
+### Cracking the Coding Interview :
 
 #### chapter 1 Array and String:
 
