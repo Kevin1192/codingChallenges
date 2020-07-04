@@ -13,6 +13,8 @@ Currently working on Cracking the Coding Interview challenges.
 * 3Sum
 * MergeTwoBinaryTrees.js
 * InvertBinaryTree.js
+* PalindromeNumber.js
+
 
 
 
