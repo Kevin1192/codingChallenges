@@ -11,6 +11,8 @@ Currently working on Cracking the Coding Interview challenges.
 * RotateImage
 * TwoSum
 * 3Sum
+* MergeTwoBinaryTrees.js
+* InvertBinaryTree.js
 
 
 
