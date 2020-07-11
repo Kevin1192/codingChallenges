@@ -42,3 +42,6 @@ Currently working on Cracking the Coding Interview challenges.
 
 ### Code War Java Challenges
 
+* onesAndZeros
+* reverseWord
+
