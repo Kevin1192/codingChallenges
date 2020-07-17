@@ -15,6 +15,7 @@ Currently working on Cracking the Coding Interview challenges.
 * InvertBinaryTree.js
 * PalindromeNumber.js
 * PalindromeLinkedList.js
+* MinimumTimeVisitingAllPoints.js
 
 
 
