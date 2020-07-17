@@ -21,7 +21,7 @@ Currently working on Cracking the Coding Interview challenges.
 
 
 
-### Cracking the Coding Interview :
+### Cracking the Coding Interview:
 
 #### chapter 1 Array and String:
 
@@ -41,7 +41,7 @@ Currently working on Cracking the Coding Interview challenges.
 2.3 deleteMiddleNode
 
 
-### Code War Java Challenges
+### Code War Java Challenges:
 
 * onesAndZeros
 
